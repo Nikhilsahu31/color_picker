@@ -1,0 +1,61 @@
+#bg {
+    width: 90%;
+    height: 60%;
+    border: 2px solid black;
+    margin: 2% auto;
+    border-radius: 10px;
+
+}
+
+div {
+    padding: 8% 0;
+    width: 100%;
+    height: auto;
+    margin: 0% auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+button {
+
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 15px;
+    box-shadow: 2px orangered;
+    text-transform: capitalize;
+    cursor: pointer;
+
+}
+
+#blue {
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+
+}
+
+h1 {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    text-transform: capitalize;
+    border: 1px solid black;
+    background-color: #000;
+    color: whitesmoke;
+    font-weight: bolder;
+
+}
